@@ -1,0 +1,7 @@
+E:\C#\Client-Server\Client-Server\Client-Server\bin\Debug\Client-Server.exe.config
+E:\C#\Client-Server\Client-Server\Client-Server\bin\Debug\Client-Server.exe
+E:\C#\Client-Server\Client-Server\Client-Server\bin\Debug\Client-Server.pdb
+E:\C#\Client-Server\Client-Server\Client-Server\obj\Debug\Client-Server.csprojAssemblyReference.cache
+E:\C#\Client-Server\Client-Server\Client-Server\obj\Debug\Client-Server.csproj.CoreCompileInputs.cache
+E:\C#\Client-Server\Client-Server\Client-Server\obj\Debug\Client-Server.exe
+E:\C#\Client-Server\Client-Server\Client-Server\obj\Debug\Client-Server.pdb
